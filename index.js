@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["**Listening to Tickets**", "**Paradise Always Legit**", "**Playing BloxFruit**"];
+const statusMessages = ["𝐋𝐢𝐬𝐭𝐞𝐧𝐢𝐧𝐠 𝐭𝐨 𝐓𝐢𝐜𝐤𝐞𝐭𝐬", "𝐏𝐥𝐚𝐲𝐢𝐧𝐠 𝐌𝐢𝐧𝐞𝐆𝐨𝐝𝐬", "𝐈𝐏:𝐜𝐨𝐦𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧"];
 const statusTypes = [ 'online', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
